@@ -6,6 +6,8 @@ import os
 # --- Configuration ---
 COMMON_MODELS = [
     "meta-llama/Llama-3.1-70B-Instruct",
+    "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+    "meta-llama/Llama-4-Maverick-17B-128E-Instruct",
     "google/gemma-2-9b-it",
     "mistralai/Mistral-7B-Instruct-v0.3",
     "bert-base-uncased",
